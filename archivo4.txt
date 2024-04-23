@@ -1,0 +1,13 @@
+ El volumen de la unidad D es Datos
+ El n£mero de serie del volumen es: 7E9B-861E
+
+ Directorio de D:\Miguel\PruebasGit\OtroProyecto
+
+23/04/2024  10:15    <DIR>          .
+23/04/2024  10:15    <DIR>          ..
+23/04/2024  10:11                28 archivo1.txt
+23/04/2024  10:11                 0 Archivo2.txt
+23/04/2024  10:14               106 archivo3.txt
+23/04/2024  10:15                 0 archivo4.txt
+               4 archivos            134 bytes
+               2 dirs  824.085.864.448 bytes libres
